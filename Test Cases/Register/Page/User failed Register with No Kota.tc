@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User failed Register with No Kota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e791c74f-3366-44c5-87c6-f51e07dff5e9</testCaseGuid>
+</TestCaseEntity>

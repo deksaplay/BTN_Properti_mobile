@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PF009 - User failed update profile name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82b0e592-8172-44f6-9fd5-489558657fc9</testCaseGuid>
+</TestCaseEntity>

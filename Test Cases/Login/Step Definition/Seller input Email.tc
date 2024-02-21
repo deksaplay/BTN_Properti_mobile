@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Seller input Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3a032d3b-7d11-46cb-bb0e-4e402314781a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b05309f-d9f4-412d-8a1a-80f372ac8ab3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jotaonthewing@mailinator.com'</defaultValue>
+      <description></description>
+      <id>6b05309f-d9f4-412d-8a1a-80f372ac8ab3</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

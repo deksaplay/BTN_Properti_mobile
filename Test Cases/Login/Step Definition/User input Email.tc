@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User input Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5e91a6c-2fa8-48b8-a83a-c9c2e7320f72</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a14c6876-fe87-4aa7-b3a4-de14a87dc712</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'mikimose1@mailinator.com'</defaultValue>
+      <description></description>
+      <id>a14c6876-fe87-4aa7-b3a4-de14a87dc712</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

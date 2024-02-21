@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PF001 - User success update profile picture</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b806431-ba49-4b46-9e61-9446740847ae</testCaseGuid>
+</TestCaseEntity>

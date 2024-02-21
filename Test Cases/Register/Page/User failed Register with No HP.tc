@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User failed Register with No HP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>addbbce7-e773-48b6-8b43-782105f69121</testCaseGuid>
+</TestCaseEntity>
